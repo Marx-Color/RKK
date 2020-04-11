@@ -1,0 +1,1778 @@
+# Webalizer V2.01-06 Incremental Data - 09/12/2007 21:34:01
+2007 9 12 21 34 1
+2299 1539 433 70 0 0 28339820 1006 628 0
+42 2 53 1 12
+210 163 2161373 45 107 61
+179 146 2378675 46 79 62
+198 164 2526873 39 95 67
+201 135 2263482 52 83 75
+250 119 2249385 38 110 61
+189 142 2223493 35 101 38
+164 106 1893035 42 67 42
+70 44 954748 21 29 22
+168 99 1686933 54 81 57
+227 135 2799737 40 92 40
+245 179 4584825 57 89 59
+198 107 2617261 42 73 44
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+67 53 571043 41
+54 40 594047 30
+45 15 246000 34
+49 39 520468 21
+28 21 170825 16
+21 12 132182 15
+19 13 43680 13
+36 26 354053 19
+98 73 1016074 43
+120 55 1045172 51
+100 78 1246005 41
+88 45 505114 40
+145 107 1547151 57
+161 75 1644969 57
+155 93 2002871 57
+169 108 1794466 86
+158 111 2259583 63
+140 104 2189975 51
+79 45 1279440 47
+124 86 1798817 42
+134 105 2160100 55
+119 99 1578644 43
+118 95 2682409 54
+72 41 956732 30
+0
+0
+0
+1539
+0
+0
+0
+0
+0
+40
+0
+0
+0
+0
+299
+0
+0
+0
+0
+0
+0
+420
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+# -urls- 
+/
+0 186 0 43990 181 120
+/RKKBrasil.html
+0 11 0 26296 3 2
+/Ensi9_Hoza.html
+0 9 0 27694 6 3
+/Ensi8_Real.html
+0 8 0 15155 4 3
+/Fe.html
+0 9 0 35519 4 2
+/RKKBrasilteste1.html
+0 8 0 52904 4 1
+/p1.html
+0 51 0 43170 5 2
+/Pbf_0002.jpg
+1 2 0 1732088 0 0
+/budashaka.jpg
+1 75 0 5202176 0 0
+/Titulobud.jpg
+1 41 0 986010 0 0
+/namumyo.jpg
+1 98 0 5524020 0 0
+/cartas.html
+0 76 0 351456 69 5
+/p2.html
+0 47 0 255787 2 4
+/jovens.jpg
+1 6 0 431850 0 0
+/monge.gif
+1 6 0 88158 0 0
+/buda4.jpg
+1 74 0 2586344 0 0
+/flashing_sign_4.gif
+1 3 0 14961 0 0
+/p3.html
+0 81 0 132306 32 17
+/Ensi13_Cult.html
+0 31 0 154600 28 2
+/bgsakura3.gif
+1 12 0 187300 0 0
+/lenda4.jpg
+1 21 0 463983 0 0
+/visita.html
+0 8 0 17614 3 2
+/Ensi2_Relig.html
+0 10 0 27556 8 3
+/post.gif
+1 69 0 174801 0 0
+/Ensi5_Dev.html
+0 4 0 6871 2 1
+/lenda3.jpg
+1 4 0 106164 0 0
+/tgb.html
+0 16 0 89285 9 2
+/programacao.html
+0 11 0 160834 3 1
+/left_2.gif
+1 5 0 23215 0 0
+/LEFT_2.gif
+1 53 0 205632 0 0
+/buda1.jpg
+1 6 0 28770 0 0
+/Ensi14_Event.html
+0 4 0 9495 2 0
+/Ensi4_Salve.html
+0 6 0 7529 3 2
+/title.gif
+1 66 0 422110 0 0
+/Ensi_credo.html
+0 4 0 5907 2 1
+/sakurai05.gif
+1 20 0 34351 0 0
+/rkk.html
+0 26 0 345423 17 3
+/ensi_credo.html
+0 6 0 6237 4 3
+/Ensi11_Evol.html
+0 44 0 63510 41 3
+/sakurai04.gif
+1 39 0 34338 0 0
+/sakura2.gif
+1 1 0 10288 0 0
+/ativ-paz.html
+0 10 0 20740 7 1
+/budaauem.html
+0 70 0 290463 62 2
+/buddha.jpg
+1 11 0 84064 0 0
+/iihito21.jpg
+1 70 0 3815276 0 0
+/Coop-interrel.html
+0 5 0 13841 3 1
+/criticas.html
+0 10 0 31801 5 3
+/titlehead.gif
+1 20 0 183768 0 0
+/Assistencia-hum.html
+0 5 0 10244 3 1
+/simbolorkk.gif
+1 40 0 145988 0 0
+/info.html
+0 12 0 13249 6 3
+/jovem.html
+0 14 0 23010 7 2
+/Ensi7_Pratic.html
+0 5 0 14040 3 1
+/Ensi10_sofrer.html
+0 4 0 16633 3 0
+/bgflor.gif
+1 18 0 81482 0 0
+/sakura031.gif
+1 5 0 53055 0 0
+/sakura041.gif
+1 1 0 10557 0 0
+/ensinamento.html
+0 18 0 139955 7 3
+/cat2.gif
+1 4 0 41946 0 0
+/sakural02.gif
+1 39 0 83058 0 0
+/Ensi6_Pratic.html
+0 15 0 63068 12 2
+/filtext.rqfw
+0 1 0 4184 0 0
+/Ensi3_Buss.html
+0 10 0 12308 6 2
+/Programacao.html
+0 4 0 58471 1 0
+/new.gif
+1 69 0 69073 0 0
+/Ensi12_Cult.html
+0 16 0 28696 9 3
+/reflexao.html
+0 12 0 68711 4 2
+/buda.html
+0 50 0 237691 36 2
+/grnloop.gif
+1 3 0 26442 0 0
+/bgorange.jpg
+1 40 0 450534 0 0
+# End Of Table - urls
+# -sites- (monthly)
+201.32.253.112
+0 6 3 165230 1 1188917556
+/budaauem.html
+20151052101.user.veloxzone.com.br
+0 4 4 70304 1 1188849457
+/cartas.html
+200-138-34-195.ctame705.dsl.brasiltelecom.net.br
+0 5 3 80319 1 1188857945
+/p3.html
+41.220.174.98
+0 1 1 1537 1 1189483468
+/Ensi11_Evol.html
+by1sch4030210.phx.gbl
+0 2 1 5085 1 1189202057
+/
+static-208-80-193-46.as13448.com
+0 1 1 901 1 1189200380
+/
+66-194-6-95.static.twtelecom.net
+0 1 1 4643 0 0
+-
+201.9.209.224
+0 4 4 70304 1 1189369926
+/cartas.html
+200.205.199.26
+0 5 3 160961 1 1189513171
+/budaauem.html
+20151014153.user.veloxzone.com.br
+0 1 1 14613 1 1189521407
+/programacao.html
+208.50.244.5
+0 13 12 133721 1 1189100242
+/p2.html
+200.231.247.1
+0 1 1 1561 1 1188728800
+/Ensi11_Evol.html
+20150161031.user.veloxzone.com.br
+0 2 2 7310 1 1189021413
+/Ensi13_Cult.html
+201-13-89-254.dsl.telesp.net.br
+0 4 4 71781 1 1189243431
+/p3.html
+c934201d.virtua.com.br
+0 1 1 5144 1 1189417152
+/Ensi13_Cult.html
+201-25-236-66.bnut3702.dsl.brasiltelecom.net.br
+0 4 3 156692 1 1189605518
+/budaauem.html
+66.110.114.198
+0 2 2 7727 1 1188815313
+/Ensi2_Relig.html
+201-43-164-212.dsl.telesp.net.br
+0 4 4 70304 1 1188944442
+/cartas.html
+201-26-43-250.dsl.telesp.net.br
+0 5 4 74573 1 1189025826
+/cartas.html
+201.214.32.19
+0 3 3 25380 1 1189518202
+/rkk.html
+201-69-87-19.dial-up.telesp.net.br
+0 14 6 70045 1 1189293047
+-
+200191197159-dial-user-ecp.acessonet.com.br
+0 4 3 156692 1 1188755697
+/budaauem.html
+200-203-27-139.paemt705.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1189088599
+/cartas.html
+200-138-88-142.mganm702.dsl.brasiltelecom.net.br
+0 6 3 165164 1 1189035478
+/budaauem.html
+200.192.253.231
+0 3 3 65298 0 0
+-
+74.6.25.216
+0 1 1 14613 1 1189193775
+/programacao.html
+201-26-42-143.dsl.telesp.net.br
+0 5 4 74573 1 1189178274
+/cartas.html
+200-147-101-58.tlm.dialuol.com.br
+0 1 1 1537 1 1189623086
+/Ensi11_Evol.html
+adslfixo-b3-127-40.telepac.pt
+0 4 1 17885 1 1189520084
+/Ensi13_Cult.html
+customer-reverse-entry.208.96.54.80
+0 2 1 5085 1 1189626574
+/
+200.99.114.250
+0 3 3 25380 1 1189543742
+/rkk.html
+200-206-166-14.speedyterra.com.br
+0 3 3 65298 0 0
+-
+msnbot.msn.com
+0 8 3 31512 4 1189180812
+/
+lj512138.crawl.yahoo.net
+0 2 2 13226 2 1189332024
+/RKKBrasilteste1.html
+200-171-99-232.speedyterra.com.br
+0 1 1 1537 1 1188727499
+/Ensi11_Evol.html
+host-78-12-32-159.cust-adsl.tiscali.it
+0 33 24 343042 1 1189161296
+/info.html
+18912014044.user.veloxzone.com.br
+0 4 3 156692 1 1188834322
+/budaauem.html
+20178038049.user.veloxzone.com.br
+0 4 4 70304 1 1188942733
+/cartas.html
+201.57.19.8
+0 5 4 74573 1 1188938223
+/cartas.html
+201-95-140-232.dsl.telesp.net.br
+0 3 3 91800 1 1189348660
+/buda.html
+c934ed91.virtua.com.br
+0 2 1 9413 1 1189541387
+/Ensi13_Cult.html
+h2-n52.es.gov.br
+0 2 2 6396 1 1189440519
+/Ensi3_Buss.html
+201.29.81.8
+0 4 4 70304 1 1188827771
+/cartas.html
+lj511294.crawl.yahoo.net
+0 2 1 4575 2 1189132568
+/Fe.html
+200.232.135.73
+0 3 3 91800 1 1189560999
+/buda.html
+201008087152.user.veloxzone.com.br
+0 4 3 156692 1 1189281262
+/budaauem.html
+lj512264.crawl.yahoo.net
+0 6 0 25104 0 0
+-
+200165090075.user.veloxzone.com.br
+0 4 4 70400 1 1189012226
+/cartas.html
+74.6.25.71
+0 1 1 8219 1 1189185316
+/ensinamento.html
+20132137219.user.veloxzone.com.br
+0 5 3 160895 1 1189000130
+/budaauem.html
+201008015048.user.veloxzone.com.br
+0 4 4 70304 1 1189547578
+/cartas.html
+201.58.68.165
+0 5 4 74573 1 1188949262
+/cartas.html
+189-30-65-135.bnut3703.dsl.brasiltelecom.net.br
+0 5 3 160961 1 1189543400
+/budaauem.html
+200.100.144.184
+0 3 3 91800 1 1188727130
+/buda.html
+bbcache155-114.singnet.com.sg
+0 1 1 9545 0 0
+-
+200-163-0-196.bsace705.dsl.brasiltelecom.net.br
+0 4 3 156692 1 1189033692
+/budaauem.html
+200-140-88-31.cpece705.dsl.brasiltelecom.net.br
+0 8 4 70963 2 1189011957
+/cartas.html
+222.165.158.132
+0 12 12 129249 1 1188708727
+/p2.html
+201-2-38-33.cpece705.dsl.brasiltelecom.net.br
+0 3 2 19005 1 1188862628
+/tgb.html
+200.97.227.133
+0 4 3 25006 1 1188999336
+/rkk.html
+201-28-149-74.customer.tdatabrasil.net.br
+0 1 1 1561 1 1189524843
+/Ensi11_Evol.html
+proxy.jknet.com.br
+0 2 1 8177 1 1189544264
+/Ensi9_Hoza.html
+pl143.nas924.p-chiba.nttpc.ne.jp
+0 13 12 133452 1 1189566239
+/p2.html
+lj512048.crawl.yahoo.net
+0 1 0 165 1 1189147911
+/Ensi11_Evol.html
+user.87.36.4.201.dial-ip.telemar.net.br
+0 3 3 17538 1 1189456511
+/ativ-paz.html
+200.175.50.25.dialup.gvt.net.br
+0 5 3 100338 1 1188861293
+/buda.html
+20151122163.user.veloxzone.com.br
+0 9 5 199733 1 1189436283
+/buda.html
+200.195.160.83
+0 7 4 83045 1 1188647845
+/cartas.html
+c9518530.virtua.com.br
+0 3 3 91800 1 1189374802
+/buda.html
+189-11-82-112.ctame700.dsl.brasiltelecom.net.br
+0 12 0 22167 1 1189452674
+/budaauem.html
+189-015-134-117.xd-dynamic.ctbcnetsuper.com.br
+0 3 3 17538 1 1189549220
+/ativ-paz.html
+200-138-47-254.ctame705.dsl.brasiltelecom.net.br
+0 5 3 160961 1 1189532492
+/budaauem.html
+65.54.188.93
+0 3 3 27786 1 1188955283
+/programacao.html
+user.37.43.5.201.dial-ip.telemar.net.br
+0 9 6 195530 1 1189095148
+/budaauem.html
+200-204-68-169.dsl.telesp.net.br
+0 5 4 74650 1 1188894074
+/cartas.html
+189-30-76-253.jvece702.dsl.brasiltelecom.net.br
+0 1 1 5144 1 1189418693
+/Ensi13_Cult.html
+static-208-80-193-40.as13448.com
+0 1 1 901 1 1189048287
+/
+201-11-201-151.paemt705.dsl.brasiltelecom.net.br
+0 3 2 152236 0 0
+-
+161.148.195.240
+0 2 2 7679 1 1189528839
+/Ensi2_Relig.html
+201-10-78-34.ctame705.dsl.brasiltelecom.net.br
+0 5 5 70304 1 1189360560
+/cartas.html
+189.27.2.32.adsl.gvt.net.br
+0 2 1 5806 1 1188751117
+/Ensi11_Evol.html
+201-43-132-74.dsl.telesp.net.br
+0 3 1 10009 1 1188896425
+/Ensi11_Evol.html
+livebot-65-54-188-93.search.live.com
+0 25 1 105573 13 1189605426
+-
+20158033160.user.veloxzone.com.br
+0 6 4 78842 1 1189513450
+/cartas.html
+200.251.65.3
+0 4 4 70304 1 1189283701
+/cartas.html
+c-200-129-136-56.ufpa.br
+0 6 4 78776 1 1189604046
+/cartas.html
+bl4-176-62.dsl.telepac.pt
+0 4 3 64754 1 1188782011
+/p3.html
+200-96-240-254.cbace702.e.brasiltelecom.net.br
+0 5 4 74573 1 1188744068
+/cartas.html
+74.6.23.208
+0 1 0 165 1 1188865640
+/RKKBrasil.html
+200-207-239-124.dsl.telesp.net.br
+0 5 4 74650 1 1189073518
+/cartas.html
+200.223.93.75
+0 3 3 91872 1 1189283768
+/buda.html
+200.97.154.164
+0 8 5 170255 1 1189273414
+/buda.html
+201.86.37.6.adsl.gvt.net.br
+0 5 4 74573 1 1188667054
+/cartas.html
+200.252.150.151
+0 5 4 74650 1 1188838488
+/cartas.html
+201-25-171-132.ctame704.dsl.brasiltelecom.net.br
+0 1 1 1537 1 1188667930
+/Ensi11_Evol.html
+lj511798.crawl.yahoo.net
+0 1 1 14613 1 1189151155
+/Programacao.html
+200.100.71.116
+0 5 3 160961 1 1188692597
+/budaauem.html
+200.223.61.28
+0 6 5 105158 1 1189160545
+/Fe.html
+static-208-80-193-34.as13448.com
+0 1 1 4643 0 0
+-
+74.6.23.225
+0 1 0 165 1 1189187863
+/Ensi13_Cult.html
+20151220082.user.veloxzone.com.br
+0 4 3 156745 1 1188854859
+/budaauem.html
+onix.mpf.gov.br
+0 1 0 4250 0 0
+-
+201.28.40.214
+0 4 3 96069 1 1189108532
+/buda.html
+201-40-108-118.ctaje300.ipd.brasiltelecom.net.br
+0 9 0 37827 0 0
+-
+227.32.186.200.sta.impsat.net.br
+0 1 1 5168 1 1189423066
+/Ensi13_Cult.html
+201-40-182-254.smace701.dsl.brasiltelecom.net.br
+0 5 3 33852 1 1188835316
+/rkk.html
+189.46.76.92
+0 1 1 5144 1 1189363431
+/Ensi13_Cult.html
+201-13-194-27.dial-up.telesp.net.br
+0 4 4 70304 1 1188649611
+/cartas.html
+18924139202.user.veloxzone.com.br
+0 5 5 8784 1 1189508759
+/cartas.html
+85.243.69.26
+0 4 3 64343 1 1189345910
+/p3.html
+bd21e3fc.virtua.com.br
+0 14 14 143985 1 1188666196
+/tgb.html
+201-41-121-241.cpece700.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1189533215
+/cartas.html
+201-27-64-120.dsl.telesp.net.br
+0 1 1 5006 1 1189176050
+/cartas.html
+20178252244.user.veloxzone.com.br
+0 4 4 70304 1 1188897485
+/cartas.html
+201.50.78.123
+0 1 1 1537 1 1189253155
+/Ensi11_Evol.html
+200.223.157.187
+0 4 4 70304 1 1189029007
+/cartas.html
+201-27-109-109.dsl.telesp.net.br
+0 5 3 160961 1 1188689621
+/budaauem.html
+200.182.68.2
+0 16 15 163142 1 1189500530
+/programacao.html
+201009100164.user.veloxzone.com.br
+0 4 3 156692 1 1189540401
+/budaauem.html
+bd04f238.virtua.com.br
+0 4 3 71946 1 1189362527
+/p3.html
+189.1.51.238.cable.gigalink.net.br
+0 4 4 70304 1 1189088826
+/cartas.html
+lj511807.crawl.yahoo.net
+0 1 0 165 1 1188990385
+/budaauem.html
+200-153-161-19.dsl.telesp.net.br
+0 108 14 200291 8 1189012335
+/p2.html
+200.201.112.31
+0 4 3 156745 1 1189420889
+/budaauem.html
+201-40-168-235.paemt704.dsl.brasiltelecom.net.br
+0 3 0 12609 0 0
+-
+74.6.19.121
+0 1 0 4184 0 0
+-
+200.201.112.33
+0 4 3 156745 1 1189097954
+/budaauem.html
+74.6.19.126
+0 1 0 4184 0 0
+-
+20150021222.user.veloxzone.com.br
+0 5 4 76050 1 1189540698
+/p3.html
+livebot-65-55-208-183.search.live.com
+0 2 1 5085 1 1188767034
+/
+livebot-65-55-208-187.search.live.com
+0 2 1 13885 1 1189391928
+/p2.html
+200.210.234.219
+0 5 4 97551 1 1189308604
+/jovem.html
+kd059133115203.ppp.dion.ne.jp
+0 4 3 53895 1 1189310153
+/ensinamento.html
+201-42-213-105.dsl.telesp.net.br
+0 6 3 157020 1 1189005379
+/budaauem.html
+201-27-174-48.dsl.telesp.net.br
+0 10 2 43863 1 1189009441
+-
+201-74-108-156-sv.cpe.vivax.com.br
+0 2 1 9413 1 1189334489
+/Ensi13_Cult.html
+200-171-225-79.customer.telesp.net.br
+0 4 4 70304 1 1188685062
+/cartas.html
+201-11-211-174.paemt700.dsl.brasiltelecom.net.br
+0 6 3 157020 1 1189429081
+/budaauem.html
+200.182.221.91
+0 5 3 160929 1 1189350944
+/budaauem.html
+201-89-67-187.ctame700.dsl.brasiltelecom.net.br
+0 4 0 659 1 1188916336
+/cartas.html
+18912218119.user.veloxzone.com.br
+0 3 3 25380 1 1189307007
+/rkk.html
+201.31.149.130
+0 2 2 14736 1 1189446710
+/tgb.html
+200-96-5-2.ctame700.dsl.brasiltelecom.net.br
+0 10 8 62897 1 1189455574
+/Ensi7_Pratic.html
+201-15-79-53.cbace702.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1188676090
+/cartas.html
+lj511044.crawl.yahoo.net
+0 1 0 165 1 1189151175
+/Ensi4_Salve.html
+propel-8.ig.com.br
+0 12 12 129249 1 1188681264
+/p2.html
+202.125.15.33
+0 1 1 368 1 1189114299
+/
+ip24-252-125-110.no.no.cox.net
+0 4 3 156692 1 1188643417
+/budaauem.html
+d22.wnetrj.com.br
+0 3 3 91800 1 1189094886
+/buda.html
+201-69-4-172.dial-up.telesp.net.br
+0 1 1 1537 1 1189536358
+/Ensi11_Evol.html
+host232.190-31-93.telecom.net.ar
+0 12 12 129249 1 1189196369
+/p2.html
+49.red-80-58-205.staticip.rima-tde.net
+0 1 1 901 1 1189579364
+/
+lj511051.crawl.yahoo.net
+0 1 0 165 1 1189162883
+/Ensi9_Hoza.html
+77.49.145.160
+0 1 1 901 1 1189371225
+/
+74.6.19.167
+0 2 1 2680 2 1189519144
+/Assistencia-hum.html
+74.6.19.73
+0 1 0 4184 0 0
+-
+74.6.19.74
+0 1 0 4184 0 0
+-
+74.6.19.75
+0 3 0 12552 0 0
+-
+lj511735.crawl.yahoo.net
+0 1 1 2490 1 1188640367
+/visita.html
+201-92-223-68.dsl.telesp.net.br
+0 5 3 17948 1 1188638460
+/Ensi12_Cult.html
+201.13.203.194
+0 8 6 313384 1 1189619184
+/budaauem.html
+201.50.219.220
+0 3 2 11948 1 1189065182
+/Ensi2_Relig.html
+200-168-85-77.dsl.telesp.net.br
+0 9 3 117084 1 1189457933
+-
+189.22.223.135
+0 1 1 1537 1 1188758315
+/Ensi11_Evol.html
+lj512270.crawl.yahoo.net
+0 6 0 25104 0 0
+-
+200.228.36.130
+0 6 3 165164 1 1189018022
+/budaauem.html
+201.73.55.246
+0 5 2 20345 1 1188762289
+-
+lj511508.crawl.yahoo.net
+0 9 8 28509 3 1189377248
+/
+66-194-6-77.static.twtelecom.net
+0 1 1 4643 0 0
+-
+200.19.250.23
+0 3 1 10075 1 1189588329
+/Ensi11_Evol.html
+a83-132-54-249.cpe.netcabo.pt
+0 4 3 156692 1 1189622340
+/budaauem.html
+200-153-119-154.prudenet.com.br
+0 2 1 9413 1 1188896170
+/Ensi13_Cult.html
+18912031083.user.veloxzone.com.br
+0 4 3 156692 1 1188839635
+/budaauem.html
+20132225225.user.veloxzone.com.br
+0 4 3 156692 1 1189018220
+/budaauem.html
+bbcache-11.singnet.com.sg
+0 6 5 79583 1 1188609771
+/p3.html
+security.lightspeedsystems.com
+0 17 0 92063 1 1189306752
+/rkk.html
+74.6.28.109
+0 2 0 330 2 1189473809
+/ensi_credo.html
+189.3.12.2
+0 3 3 25452 1 1189544154
+/rkk.html
+189.26.33.122.adsl.gvt.net.br
+0 1 1 1892 1 1188915750
+/Ensi8_Real.html
+200-101-232-163.fnsce701.dsl.brasiltelecom.net.br
+0 3 3 91800 1 1188839430
+/buda.html
+200-193-252-52.bsaco700.dsl.brasiltelecom.net.br
+0 6 5 99228 1 1189547121
+/jovem.html
+static-208-80-193-44.as13448.com
+0 1 1 4643 0 0
+-
+ns2.km20947-05.keymachine.de
+0 1 1 1290 1 1189307972
+/info.html
+201-048-013-057.xd-dynamic.ctbcnetsuper.com.br
+0 1 1 5144 1 1189356096
+/Ensi13_Cult.html
+livebot-65-54-188-92.search.live.com
+0 8 2 42309 4 1189101194
+-
+84.90.194.160
+0 4 3 96069 1 1189151482
+/buda.html
+200.175.14.109.dialup.gvt.net.br
+0 4 3 156692 1 1189607588
+/budaauem.html
+201-40-183-200.paemt700.dsl.brasiltelecom.net.br
+0 4 1 14278 1 1188920022
+/Ensi11_Evol.html
+200.198.136.87
+0 3 3 25452 1 1189009342
+/rkk.html
+smtp-psi.psitecnologia.com.br
+0 2 2 14784 1 1189432967
+/tgb.html
+201.23.0.2.ttp.directnet.com.br
+0 9 8 144877 2 1188829508
+/cartas.html
+213.58.136.218
+0 4 3 156692 1 1189170617
+/budaauem.html
+200-193-250-72.bsace200.dial.brasiltelecom.net.br
+0 2 2 7310 1 1189297057
+/Ensi12_Cult.html
+201-42-113-104.dsl.telesp.net.br
+0 6 0 9131 1 1189036283
+/cartas.html
+201-27-91-98.dsl.telesp.net.br
+0 4 3 21807 1 1188935123
+/ativ-paz.html
+200-96-128-153.cpece705.dsl.brasiltelecom.net.br
+0 7 6 71333 2 1189508788
+/Ensi6_Pratic.html
+static-208-80-193-38.as13448.com
+0 1 1 4643 0 0
+-
+20158114076.user.veloxzone.com.br
+0 5 4 74573 1 1189513789
+/cartas.html
+20150191021.user.veloxzone.com.br
+0 4 4 70304 1 1189430502
+/cartas.html
+201.19.133.62
+0 4 3 156692 1 1189282003
+/budaauem.html
+cpu002114.ba.gov.br
+0 3 3 71781 1 1188813166
+/p3.html
+200.174.23.3
+0 4 4 70304 1 1189538322
+/cartas.html
+201.86.183.45.adsl.gvt.net.br
+0 5 3 160961 1 1189560779
+/budaauem.html
+74.6.24.25
+0 1 0 165 1 1189292703
+/visita.html
+lj511100.crawl.yahoo.net
+0 2 1 3629 2 1189337699
+/Ensi7_Pratic.html
+201-048-035-232.xd-dynamic.ctbcnetsuper.com.br
+0 1 1 1537 1 1189586560
+/Ensi11_Evol.html
+201-15-85-38.gnace702.dsl.brasiltelecom.net.br
+0 4 4 81302 1 1188851520
+/p3.html
+proxy3.tvcabo.co.mz
+0 6 4 39062 2 1189583341
+/rkk.html
+200-233-176-135.xd-dynamic.ctbcnetsuper.com.br
+0 4 4 27266 1 1188731561
+/criticas.html
+sls-gb15p2.dca2.superb.net
+0 2 0 6093 2 1189137784
+-
+200.193.216.28
+0 4 4 70304 1 1188774433
+/cartas.html
+201.79.124.221
+0 4 3 31363 1 1189239764
+/p3.html
+18912176217.user.veloxzone.com.br
+0 4 3 156692 1 1189523987
+/budaauem.html
+201-1-126-185.dsl.telesp.net.br
+0 58 39 491440 1 1189429262
+/rkk.html
+18924091148.user.veloxzone.com.br
+0 2 2 269012 1 1188938858
+/RKKBrasilteste1.html
+bbcache155-76.singnet.com.sg
+0 2 2 22672 1 1188609772
+/p1.html
+lj511353.crawl.yahoo.net
+0 1 0 4184 1 1188826190
+/
+200.220.209.180
+0 2 1 5806 1 1188649727
+/Ensi11_Evol.html
+207.237.214.93
+0 5 5 71781 1 1189374269
+/p3.html
+201-42-116-210.dsl.telesp.net.br
+0 6 4 78776 1 1188997022
+/cartas.html
+bbcache155-14.singnet.com.sg
+0 1 1 925 1 1188609767
+/
+200-96-205-195.gnace704.dsl.brasiltelecom.net.br
+0 3 3 71781 1 1188763327
+/p3.html
+201-14-189-26.fnsce701.dsl.brasiltelecom.net.br
+0 5 4 76050 1 1188899216
+/p3.html
+189.25.66.243
+0 3 3 25380 1 1188687286
+/rkk.html
+krups.netcraft.com
+0 1 0 1795 1 1188766163
+-
+crawl-66-249-66-167.googlebot.com
+0 57 44 224755 8 1189323303
+/p1.html
+janus.pucsp.br
+0 4 3 76103 1 1188648924
+/p3.html
+livebot-65-55-208-182.search.live.com
+0 4 2 18884 2 1189398148
+/RKKBrasilteste1.html
+egspd42425.ask.com
+0 44 30 185302 29 1189592647
+-
+201.92.152.134
+0 15 15 109280 1 1188730949
+/ensinamento.html
+212.122.105.150
+0 12 12 69175 1 1189603088
+/p2.html
+200-161-120-86.dsl.telesp.net.br
+0 1 1 1537 1 1188863695
+/Ensi11_Evol.html
+lj511828.crawl.yahoo.net
+0 2 0 328 2 1189317592
+/Coop-interrel.html
+bbcache-76.singnet.com.sg
+0 1 1 4184 0 0
+-
+189.54.1.40
+0 2 1 5806 1 1189453427
+/Ensi11_Evol.html
+201-34-236-110.bsace703.dsl.brasiltelecom.net.br
+0 4 3 76103 1 1189114272
+/p3.html
+201-1-219-72.dsl.telesp.net.br
+0 4 3 29649 1 1188926169
+/rkk.html
+201-26-117-132.dsl.telesp.net.br
+0 6 3 161125 1 1189010611
+/budaauem.html
+201.0.132.52
+0 4 4 70304 1 1189592215
+/cartas.html
+lj512125.crawl.yahoo.net
+0 2 2 3784 2 1189294445
+/Ensi8_Real.html
+201.12.54.74
+0 2 1 5806 1 1188909572
+/Ensi11_Evol.html
+a213-22-106-219.cpe.netcabo.pt
+0 5 4 156692 1 1188744193
+/buda.html
+200.214.14.4
+0 2 1 9394 1 1189363664
+/Ensi13_Cult.html
+200-96-108-236.paemt7013.e.brasiltelecom.net.br
+0 1 1 1537 1 1189267890
+/Ensi11_Evol.html
+201-15-44-174.ctame705.e.brasiltelecom.net.br
+0 1 1 3903 1 1189035223
+/Ensi9_Hoza.html
+222.165.158.227
+0 14 14 136775 1 1189166836
+/RKKBrasil.html
+201-10-172-187.gnace702.dsl.brasiltelecom.net.br
+0 1 1 5144 1 1188651391
+/Ensi13_Cult.html
+201.20.206.10.corp.ajato.com.br
+0 6 3 104409 1 1189096463
+-
+189-19-208-175.dsl.telesp.net.br
+0 3 3 33532 1 1188920397
+/Ensi6_Pratic.html
+200.255.166.198
+0 4 3 156745 1 1188759022
+/budaauem.html
+201-66-111-141.ctame700.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1188872965
+/cartas.html
+200-162-205-13.user.ajato.com.br
+0 1 1 5144 1 1189420455
+/Ensi13_Cult.html
+virtua-cwbas189-4-35-17ctb.virtua.com.br
+0 9 4 75232 2 1189634408
+/cartas.html
+200.97.246.85
+0 10 5 114277 1 1189550545
+/budaauem.html
+200-102-52-40.bnut3702.e.brasiltelecom.net.br
+0 4 3 156692 1 1189588307
+/budaauem.html
+lj511296.crawl.yahoo.net
+0 1 0 165 1 1189197593
+/Ensi10_sofrer.html
+200-204-145-84.dsl.telesp.net.br
+0 4 3 96069 1 1189500043
+/buda.html
+201.90.222.73
+0 3 1 13682 1 1189517246
+/Ensi13_Cult.html
+200.218.183.78
+0 3 3 23200 1 1189082711
+/tgb.html
+201.22.61.182.adsl.gvt.net.br
+0 5 3 160961 1 1188676137
+/budaauem.html
+201-68-231-120.dsl.telesp.net.br
+0 2 1 5806 1 1188643573
+/Ensi11_Evol.html
+200.144.5.29
+0 4 3 96003 1 1189586799
+-
+lj511987.crawl.yahoo.net
+0 1 0 165 1 1189165003
+/Ensi2_Relig.html
+201-92-251-50.dsl.telesp.net.br
+0 90 0 15894 8 1189611099
+/p2.html
+200.141.74.234
+0 4 3 96122 1 1188758514
+/buda.html
+200.252.214.4
+0 4 4 70400 1 1188828257
+/cartas.html
+200.253.123.139
+0 3 3 65370 0 0
+-
+18925004058.user.veloxzone.com.br
+0 1 1 5144 1 1189296969
+/Ensi13_Cult.html
+38.100.41.102
+0 49 39 211289 1 1189093590
+/Ensi_credo.html
+201009222021.user.veloxzone.com.br
+0 2 2 25275 1 1189532783
+/buda.html
+62.43.137.72.dyn.user.ono.com
+0 5 3 160961 1 1188654781
+/budaauem.html
+201.20.197.32
+0 4 3 96069 1 1188945178
+/buda.html
+201.55.62.146
+0 2 1 7354 1 1188983182
+/Ensi14_Event.html
+lj511879.crawl.yahoo.net
+0 2 0 330 2 1189337013
+/rkk.html
+bhe200150036044.res-com.wayinternet.com.br
+0 2 1 8172 1 1189364432
+/Ensi9_Hoza.html
+lj512172.crawl.yahoo.net
+0 1 0 164 1 1189155235
+/Ensi14_Event.html
+201.16.15.251
+0 4 4 70400 1 1189014170
+/cartas.html
+bl6-154-145.dsl.telepac.pt
+0 5 3 100272 1 1189171755
+/buda.html
+softbank219215077234.bbtec.net
+0 1 0 4203 0 0
+-
+bd06a228.virtua.com.br
+0 18 15 175390 1 1188692242
+/p3.html
+201.47.67.104.adsl.gvt.net.br
+0 1 1 1537 1 1188995739
+/Ensi11_Evol.html
+lj511094.crawl.yahoo.net
+0 2 0 330 2 1189459317
+/Ensi3_Buss.html
+62.123.206.127
+0 1 1 901 1 1189339674
+/
+lj511770.crawl.yahoo.net
+0 1 0 165 1 1189342240
+/RKKBrasil.html
+201.50.194.63
+0 4 3 53895 1 1188836734
+/ensinamento.html
+161.148.102.252
+0 1 1 5144 1 1189416600
+/Ensi13_Cult.html
+20150136144.user.veloxzone.com.br
+0 2 1 1702 2 1189524673
+/Ensi11_Evol.html
+livebot-65-54-188-91.search.live.com
+0 15 8 50308 7 1189152109
+/p1.html
+20151033045.user.veloxzone.com.br
+0 3 3 91800 1 1189629629
+/buda.html
+20150182247.user.veloxzone.com.br
+0 4 4 93205 1 1189600961
+/jovem.html
+201-35-43-130.ctame700.dsl.brasiltelecom.net.br
+0 4 3 156692 1 1189530804
+/budaauem.html
+74.6.25.167
+0 1 1 4490 1 1188718505
+/Ensi6_Pratic.html
+200-100-92-110.dial-up.telesp.net.br
+0 2 2 0 1 1189196108
+/p3.html
+189-18-108-196.dsl.telesp.net.br
+0 4 3 96069 1 1189458628
+/buda.html
+201.24.28.126
+0 1 1 5168 1 1189511308
+/Ensi13_Cult.html
+200.181.13.210
+0 3 3 28889 1 1189606669
+/Ensi6_Pratic.html
+200-203-9-192.cslce701.dsl.brasiltelecom.net.br
+0 3 3 71853 1 1188671655
+/p3.html
+201-24-22-29.cbace702.dsl.brasiltelecom.net.br
+0 2 2 8107 1 1189093284
+/Ensi7_Pratic.html
+201.19.247.82
+0 12 4 87841 1 1189344428
+/cartas.html
+c9257804.poa.virtua.com.br
+0 1 1 1561 1 1188768880
+/Ensi11_Evol.html
+66-194-6-94.static.twtelecom.net
+0 1 1 901 1 1188679848
+/
+63.123.238.8
+0 2 1 5123 1 1189198846
+/
+lj511569.crawl.yahoo.net
+0 2 0 330 2 1189238608
+/reflexao.html
+200.232.195.67
+0 2 1 5806 1 1189376010
+/Ensi11_Evol.html
+18912101022.user.veloxzone.com.br
+0 3 3 19698 1 1189519684
+/Coop-interrel.html
+193.37.153.18
+0 3 3 91800 1 1189522760
+/buda.html
+189-47-149-26.dsl.telesp.net.br
+0 14 5 208700 1 1189090164
+-
+lj511330.crawl.yahoo.net
+0 2 0 328 2 1189266553
+/criticas.html
+189-29-185-43-nd.cpe.vivax.com.br
+0 19 15 171441 1 1189438151
+/rkk.html
+softbank220041071067.bbtec.net
+0 1 1 2166 1 1188793256
+/Ensi12_Cult.html
+201-11-42-74.pgosm7003.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1189613876
+/cartas.html
+201.42.153.106
+0 5 3 160961 1 1189609381
+/budaauem.html
+200.139.108.111
+0 13 13 143862 1 1188673863
+/programacao.html
+201008069050.user.veloxzone.com.br
+0 1 1 1537 1 1189632428
+/Ensi11_Evol.html
+189-30-88-229.jvece702.dsl.brasiltelecom.net.br
+0 3 1 10009 1 1189000384
+/Ensi11_Evol.html
+201009186075.user.veloxzone.com.br
+0 4 4 70304 1 1189429459
+/cartas.html
+200.171.231.83
+0 4 3 29649 1 1189349075
+/rkk.html
+200.171.169.146
+0 4 3 96069 1 1188979211
+/buda.html
+194-79-73-229.net.novis.pt
+0 7 5 109260 1 1189143521
+-
+cpu001922.ba.gov.br
+0 1 1 1561 1 1188907496
+/Ensi11_Evol.html
+201-43-53-146.dsl.telesp.net.br
+0 1 1 5144 1 1189499966
+/Ensi13_Cult.html
+lj511917.crawl.yahoo.net
+0 2 0 330 2 1189185201
+/tgb.html
+74.6.23.141
+0 1 1 4456 1 1189595298
+/budaauem.html
+200-206-179-128.dsl.telesp.net.br
+0 1 1 2166 1 1189531369
+/Ensi12_Cult.html
+200.242.199.130
+0 4 4 70400 1 1189338619
+/cartas.html
+20131143146.prontonet.com.br
+0 6 5 78236 1 1189178529
+/p3.html
+201.1.59.238
+0 5 4 74573 1 1188751969
+/cartas.html
+200.248.80.26
+0 3 3 71781 1 1188935213
+/p3.html
+200.238.118.224
+0 4 4 70304 1 1188904752
+/cartas.html
+200-138-46-120.ctame705.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1188750605
+/cartas.html
+20119162038.user.veloxzone.com.br
+0 4 3 10617 1 1188941196
+/Ensi3_Buss.html
+60.190.223.77
+0 1 1 1290 1 1189031755
+/info.html
+201.12.25.133
+0 1 1 1537 1 1189447717
+/Ensi11_Evol.html
+20150205202.user.veloxzone.com.br
+0 3 2 11948 1 1189614911
+/Ensi2_Relig.html
+livebot-65-55-208-185.search.live.com
+0 7 4 19574 4 1189107853
+/p3.html
+200.205.129.250
+0 4 4 70400 1 1188926202
+/cartas.html
+20158069247.user.veloxzone.com.br
+0 4 3 156692 1 1188922684
+/budaauem.html
+200-161-64-179.dsl.telesp.net.br
+0 2 2 1537 1 1189584755
+/Ensi11_Evol.html
+201.47.92.5.dialup.gvt.net.br
+0 4 4 8784 1 1189114174
+/cartas.html
+69-84-207-35.biz.arrival.net
+0 20 0 181026 1 1189448991
+/Ensi10_sofrer.html
+edsiapl01.eds.net
+0 3 3 25380 1 1189080572
+/rkk.html
+200-102-86-146.nhoce701.dsl.brasiltelecom.net.br
+0 1 1 1537 1 1189086002
+/Ensi11_Evol.html
+20150133070.user.veloxzone.com.br
+0 3 3 91800 1 1189440779
+/buda.html
+lj511277.crawl.yahoo.net
+0 2 2 10012 2 1189398458
+/cartas.html
+201.11.13.42
+0 11 7 208879 1 1188988268
+-
+200-161-89-244.speedyterra.com.br
+0 4 3 156692 1 1189443484
+/budaauem.html
+201-34-93-25.smace701.dsl.brasiltelecom.net.br
+0 2 1 5806 1 1189544804
+/Ensi11_Evol.html
+lj511284.crawl.yahoo.net
+0 2 0 330 2 1189299782
+/Ensi12_Cult.html
+200-71-191-1.genericrev.telcel.net.ve
+0 4 3 96069 1 1189359500
+/buda.html
+201-93-226-53.dsl.telesp.net.br
+0 1 1 5483 1 1188913924
+/Ensi10_sofrer.html
+bl6-9-63.dsl.telepac.pt
+0 7 6 228473 1 1189084325
+/budaauem.html
+bd06e603.virtua.com.br
+0 5 4 76050 1 1188942022
+/p3.html
+189-015-125-061.xd-dynamic.ctbcnetsuper.com.br
+0 4 4 70304 1 1189374561
+/cartas.html
+200-161-96-35.dsl.telesp.net.br
+0 5 3 160961 1 1188686807
+/budaauem.html
+189.2.226.2
+0 1 1 1561 1 1189078131
+/Ensi11_Evol.html
+84.90.113.49
+0 2 1 9413 1 1189362128
+/Ensi13_Cult.html
+static-88.131.153.91.addr.tdcsong.se
+0 7 4 22632 3 1189116936
+/
+lj512261.crawl.yahoo.net
+0 1 0 4184 0 0
+-
+200.157.179.175
+0 117 117 0 117 1189025925
+/
+plutao.mfa.unc.br
+0 1 1 1561 1 1188854853
+/Ensi11_Evol.html
+c-24-128-200-225.hsd1.ma.comcast.net
+0 5 3 160961 1 1189589924
+/budaauem.html
+crawl-11.cuill.com
+0 9 0 37656 0 0
+-
+18912049128.user.veloxzone.com.br
+0 4 4 70304 1 1189114792
+/cartas.html
+bbcache-114.singnet.com.sg
+0 2 2 17201 0 0
+-
+201-11-25-85.mganm703.dsl.brasiltelecom.net.br
+0 2 1 9413 1 1189330503
+/Ensi13_Cult.html
+lj512272.crawl.yahoo.net
+0 3 0 12552 0 0
+-
+bd0584a2.virtua.com.br
+0 4 4 70304 1 1189494718
+/cartas.html
+200.231.34.52
+0 3 3 71781 1 1189068528
+/p3.html
+lj511506.crawl.yahoo.net
+0 2 1 1919 2 1189318262
+/jovem.html
+188.172.226.200.in-addr.arpa.ig.com.br
+0 6 3 100371 1 1189638232
+/buda.html
+201.69.157.45
+0 4 3 156692 1 1188744692
+/budaauem.html
+70.red-81-34-223.dynamicip.rima-tde.net
+0 3 3 91800 1 1188890867
+/buda.html
+lj511513.crawl.yahoo.net
+0 1 1 4490 1 1189323392
+/Ensi6_Pratic.html
+201-3-19-93.gnace701.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1188832721
+/cartas.html
+66-194-6-228.static.twtelecom.net
+0 1 1 901 1 1188837630
+/
+201.29.172.153
+0 6 5 76050 1 1189365385
+/p3.html
+bbcache-71.singnet.com.sg
+0 1 1 3832 0 0
+-
+lj512052.crawl.yahoo.net
+0 1 1 5157 1 1189309698
+/buda.html
+lj512056.crawl.yahoo.net
+0 1 1 2186 1 1188760746
+/p3.html
+201-13-167-180.dial-up.telesp.net.br
+0 3 3 17538 1 1189359976
+/ativ-paz.html
+18948003100.user.veloxzone.com.br
+0 1 1 1537 1 1188672559
+/Ensi11_Evol.html
+user-0c9h595.cable.mindspring.com
+0 1 1 15668 1 1189538932
+/rkk.html
+18924042112.user.veloxzone.com.br
+0 1 1 60074 0 0
+-
+201.91.76.11
+0 2 1 5806 1 1189278960
+/Ensi11_Evol.html
+lj511773.crawl.yahoo.net
+0 2 0 330 2 1189162968
+/info.html
+18925207097.user.veloxzone.com.br
+0 4 3 37854 1 1188944117
+/Ensi6_Pratic.html
+lj511539.crawl.yahoo.net
+0 2 2 2944 2 1189520284
+/Ensi_credo.html
+200-153-151-211.dsl.telesp.net.br
+0 1 1 1537 1 1189545666
+/Ensi11_Evol.html
+c915d64d.poa.virtua.com.br
+0 6 4 82884 1 1189124096
+/p3.html
+189-10-30-86.bsaco700.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1188762026
+/cartas.html
+lj512074.crawl.yahoo.net
+0 1 0 4184 1 1188663734
+-
+201.88.86.100
+0 4 3 76050 1 1189355845
+/p3.html
+news.leiloeseoportunidades.com.br
+0 12 12 129537 1 1189500993
+/p2.html
+mvx-200-201-183-242.mundivox.com
+0 4 2 41900 1 1189586691
+/reflexao.html
+20150183085.user.veloxzone.com.br
+0 4 3 156692 1 1189456740
+/budaauem.html
+201008007193.user.veloxzone.com.br
+0 3 3 33532 1 1188833231
+/Ensi6_Pratic.html
+201-69-83-59.dial-up.telesp.net.br
+0 5 3 160961 1 1189135602
+/budaauem.html
+lj512085.crawl.yahoo.net
+0 1 0 165 1 1189131666
+/ativ-paz.html
+201.65.168.58
+0 5 4 74573 1 1188845981
+/cartas.html
+201-34-48-209.gnace702.dsl.brasiltelecom.net.br
+0 4 4 93205 1 1189453258
+/jovem.html
+200-169-218-2.liquigas.com.br
+0 35 35 520490 1 1188837881
+/p3.html
+lj511434.crawl.yahoo.net
+0 1 0 4184 1 1189300040
+-
+252-126-20-190.adsl.tie.cl
+0 3 3 33532 1 1188926866
+/Ensi6_Pratic.html
+201009186039.user.veloxzone.com.br
+0 1 1 5144 1 1189326104
+/Ensi13_Cult.html
+201-40-132-46.nhoce701.e.brasiltelecom.net.br
+0 6 3 104652 1 1189628602
+/budaauem.html
+200-171-102-101.dsl.telesp.net.br
+0 38 37 1899583 1 1189550786
+/Ensi3_Buss.html
+static-208-80-193-30.as13448.com
+0 2 2 1802 2 1189632841
+/
+74.6.20.146
+0 1 0 165 1 1188966242
+/buda.html
+201-14-27-80.ctame700.dsl.brasiltelecom.net.br
+0 9 3 169629 1 1189451382
+/budaauem.html
+20178219192.user.veloxzone.com.br
+0 4 3 96069 1 1189448307
+/buda.html
+201-27-105-39.dsl.telesp.net.br
+0 8 5 195596 1 1189195278
+/buda.html
+adsl-75-6-178-34.dsl.skt2ca.sbcglobal.net
+0 6 4 160961 1 1189543969
+/budaauem.html
+201-26-76-107.dsl.telesp.net.br
+0 3 3 71781 1 1188855771
+/p3.html
+crawl-66-249-65-75.googlebot.com
+0 2 0 4486 1 1189596654
+/
+74.6.20.150
+0 1 1 2186 1 1189375308
+/p3.html
+201-34-208-44.gnace702.dsl.brasiltelecom.net.br
+0 3 3 17538 1 1188997008
+/ativ-paz.html
+202.179.180.45
+0 16 14 90348 1 1188849673
+/reflexao.html
+201009089171.user.veloxzone.com.br
+0 4 3 96069 1 1189067157
+/buda.html
+201-40-176-125.jvece702.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1189260575
+/cartas.html
+201-68-253-159.dsl.telesp.net.br
+0 3 3 17446 1 1189347834
+/Assistencia-hum.html
+74.6.26.212
+0 1 1 4411 1 1189598509
+/Fe.html
+lj511593.crawl.yahoo.net
+0 1 0 165 1 1189164112
+/Ensi5_Dev.html
+201.9.230.37
+0 1 1 5483 1 1188809002
+/Ensi10_sofrer.html
+200.211.230.22
+0 6 4 56226 3 1189009021
+/Ensi12_Cult.html
+agata.mpf.gov.br
+0 1 1 5168 1 1189516017
+/Ensi13_Cult.html
+200.175.131.103.adsl.gvt.net.br
+0 3 2 10617 1 1189320976
+/Ensi3_Buss.html
+201.43.168.89
+0 2 2 7310 1 1189597833
+/Ensi12_Cult.html
+loncoche.dialterra.com.br
+0 2 1 9418 1 1189334475
+/Ensi13_Cult.html
+200.191.171.204
+0 1 1 1537 1 1188774148
+/Ensi11_Evol.html
+201008220139.user.veloxzone.com.br
+0 10 3 181910 1 1188897321
+/budaauem.html
+192.168.133.127
+0 1 0 4184 0 0
+-
+201-67-103-168.bsaco701.dsl.brasiltelecom.net.br
+0 6 4 78842 1 1188770304
+/cartas.html
+lj511804.crawl.yahoo.net
+0 1 0 4184 1 1189498513
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+201-25-236-66.bnut3702.dsl.brasiltelecom.net.br
+0 4 3 156692 1 1189605518
+/budaauem.html
+200-147-101-58.tlm.dialuol.com.br
+0 1 1 1537 1 1189623086
+/Ensi11_Evol.html
+customer-reverse-entry.208.96.54.80
+0 2 1 5085 1 1189626574
+/
+200.232.135.73
+0 3 3 91800 1 1189560999
+/buda.html
+pl143.nas924.p-chiba.nttpc.ne.jp
+0 13 12 133452 1 1189566239
+/p2.html
+livebot-65-54-188-93.search.live.com
+0 2 0 8368 1 1189605426
+-
+c-200-129-136-56.ufpa.br
+0 6 4 78776 1 1189604046
+/cartas.html
+74.6.19.126
+0 1 0 4184 0 0
+-
+49.red-80-58-205.staticip.rima-tde.net
+0 1 1 901 1 1189579364
+/
+201.13.203.194
+0 8 6 313384 1 1189619184
+/budaauem.html
+200.19.250.23
+0 3 1 10075 1 1189588329
+/Ensi11_Evol.html
+a83-132-54-249.cpe.netcabo.pt
+0 4 3 156692 1 1189622340
+/budaauem.html
+200.175.14.109.dialup.gvt.net.br
+0 4 3 156692 1 1189607588
+/budaauem.html
+201.86.183.45.adsl.gvt.net.br
+0 5 3 160961 1 1189560779
+/budaauem.html
+201-048-035-232.xd-dynamic.ctbcnetsuper.com.br
+0 1 1 1537 1 1189586560
+/Ensi11_Evol.html
+proxy3.tvcabo.co.mz
+0 3 3 25380 1 1189583341
+/rkk.html
+egspd42425.ask.com
+0 4 2 12066 3 1189592647
+-
+212.122.105.150
+0 12 12 69175 1 1189603088
+/p2.html
+201.0.132.52
+0 4 4 70304 1 1189592215
+/cartas.html
+virtua-cwbas189-4-35-17ctb.virtua.com.br
+0 4 0 659 1 1189634408
+/cartas.html
+200-102-52-40.bnut3702.e.brasiltelecom.net.br
+0 4 3 156692 1 1189588307
+/budaauem.html
+200.144.5.29
+0 4 3 96003 1 1189586799
+-
+201-92-251-50.dsl.telesp.net.br
+0 50 0 8830 4 1189611099
+/p2.html
+softbank219215077234.bbtec.net
+0 1 0 4203 0 0
+-
+20151033045.user.veloxzone.com.br
+0 3 3 91800 1 1189629629
+/buda.html
+20150182247.user.veloxzone.com.br
+0 4 4 93205 1 1189600961
+/jovem.html
+200.181.13.210
+0 3 3 28889 1 1189606669
+/Ensi6_Pratic.html
+201-11-42-74.pgosm7003.dsl.brasiltelecom.net.br
+0 4 4 70304 1 1189613876
+/cartas.html
+201.42.153.106
+0 5 3 160961 1 1189609381
+/budaauem.html
+201008069050.user.veloxzone.com.br
+0 1 1 1537 1 1189632428
+/Ensi11_Evol.html
+74.6.23.141
+0 1 1 4456 1 1189595298
+/budaauem.html
+20150205202.user.veloxzone.com.br
+0 3 2 11948 1 1189614911
+/Ensi2_Relig.html
+200-161-64-179.dsl.telesp.net.br
+0 2 2 1537 1 1189584755
+/Ensi11_Evol.html
+c-24-128-200-225.hsd1.ma.comcast.net
+0 5 3 160961 1 1189589924
+/budaauem.html
+crawl-11.cuill.com
+0 1 0 4184 0 0
+-
+188.172.226.200.in-addr.arpa.ig.com.br
+0 6 3 100371 1 1189638232
+/buda.html
+mvx-200-201-183-242.mundivox.com
+0 4 2 41900 1 1189586691
+/reflexao.html
+201-40-132-46.nhoce701.e.brasiltelecom.net.br
+0 6 3 104652 1 1189628602
+/budaauem.html
+static-208-80-193-30.as13448.com
+0 1 1 901 1 1189632841
+/
+crawl-66-249-65-75.googlebot.com
+0 2 0 4486 1 1189596654
+/
+74.6.26.212
+0 1 1 4411 1 1189598509
+/Fe.html
+201.43.168.89
+0 2 2 7310 1 1189597833
+/Ensi12_Cult.html
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
+# -Error404- 
+/simbolo3.jpg,(pas de référant)
+2100
+/tikiwiki/tiki-xmlrpc_services.php,(pas de référant)
+1
+/,(pas de référant)
+67
+/rkk.html,(pas de référant)
+12
+/Desenv+Budismo.html,(pas de référant)
+525
+/_vti_bin/owssvr.dll,(pas de référant)
+54
+/Pbf_0002.jpg,(pas de référant)
+1
+/phpAdsNew/adxmlrpc.php,(pas de référant)
+2
+/jovens+1.jpg,(pas de référant)
+1
+/budaintro[1].html,(pas de référant)
+1245
+/budaintro,(pas de référant)
+1
+/jomens.jpg,(pas de référant)
+1
+/programacao1.files/filelist.xml,(pas de référant)
+2
+/sanzai,(pas de référant)
+1
+/_vti_inf.html,(pas de référant)
+3
+/ativ-paz.html,(pas de référant)
+1
+/meditacao1[1].html,(pas de référant)
+292
+/html,(pas de référant)
+1
+/RKKBrasil.html,(pas de référant)
+9
+/jovens1.jpg,(pas de référant)
+1
+/postnuke/xmlrpc.php,(pas de référant)
+1
+/adsxmlrpc.php,(pas de référant)
+1
+/RKKBrasilteste.html,(pas de référant)
+7
+/tgb.html,(pas de référant)
+1
+/deus[1].html,(pas de référant)
+421
+/html/budaintro[1].html,(pas de référant)
+282
+/MSOffice/cltreq.asp,(pas de référant)
+45
+/tiki/tiki-xmlrpc_services.php,(pas de référant)
+1
+/p2.html,(pas de référant)
+7
+/ads/adxmlrpc.php,(pas de référant)
+2
+/home.html,(pas de référant)
+1
+/Risho+Kossei-Kai+do+Brasil_arquivos/p1.htm,(pas de référant)
+1
+/budaauem.html+-+5k,(pas de référant)
+1
+/tiki-xmlrpc_services.php,(pas de référant)
+1
+/xmlrpc.php,(pas de référant)
+3
+/A+mensagem+de+Shakyamuni.html,(pas de référant)
+583
+/g,,(pas de référant)
+7
+/portal/xmlrpc.php,(pas de référant)
+1
+/DocURL.indexOf,(pas de référant)
+1
+/robot.txt,(pas de référant)
+2
+/Risho+Kossei-Kai+do+Brasil_arquivos/p2.htm,(pas de référant)
+1
+/favicon.ico,(pas de référant)
+4052
+/robots.txt,(pas de référant)
+5361
+/default.aspx,(pas de référant)
+4
+/Campanha+de+doacao.html,(pas de référant)
+333
+/adxmlrpc.php,(pas de référant)
+1
+/p2.files/filelist.xml,(pas de référant)
+48
+/Budismo.html,(pas de référant)
+1
+/cartas,(pas de référant)
+1
+# End Of Table - Error404-

@@ -1,0 +1,40 @@
+<HTML><HEAD><TITLE>DATA E HORA</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+function EscreveData(){
+	hoje=new Date();
+dia=hoje.getDate();
+mes=hoje.getMonth()+1;
+ano=hoje.getFullYear();
+if (dia<10) dia="0"+dia;
+if(mes<10)mes="0"+mes;
+//if (ano<2000) ano="19"+ano;
+document.write(dia+"/"+mes+"/"+ano);
+}
+function EscreveHora(){
+	agora=new Date();
+	horas=agora.getHours();
+	minutos=agora.getMinutes();
+	if(horas<10) horas="0"+horas;
+	if (minutos<10) minutos="0"+minutos;
+	document.write(horas+":"+minutos+"h");
+
+}
+</SCRIPT>
+</HEAD>
+<BODY>
+<font face=arial size=4>
+Olá, que bom te ver aqui! Ainda estamos em Construção.....
+Logo Logo está página estará carregada de informações!! 
+<p> Hoje é dia
+<font color=blue size=5><b>
+<SCRIPT LANGUAGE="JavaScript">
+EscreveData();
+</SCRIPT></b></font>e<p>Agora são<font color=green size=5>
+<b><i>
+<Script Language="JavaScript">
+EscreveHora();
+</script></i></b></font>
+<img SRC="flashing_sign_4.gif" align=middle>
+</BODY>
+</HTML>
+

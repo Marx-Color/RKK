@@ -1,0 +1,119 @@
+<html>
+<head><title>Construindo Formulário</title>
+<script language="JavaScript">
+msg="Criadores do Site: Fatec-SP/PD   Léa Yoshie Ono No.991571-0  Maurício Kenji Osako No.991575-3   Nóbel Lei No.982668-8 ";
+espaco="...   ...";
+pos=0;
+function rolaMens(){
+window.status=msg.substring(pos,msg.length)+espaco+msg.substring(0,pos);
+pos++;
+if (pos>msg.length) pos=0;
+window.setTimeout("rolaMens()",200);
+}
+rolaMens();
+</script>
+
+</head>
+<body bgcolor="#000000" text="#E6E8FA" alink="#ff0000" vlink="#000000" link="#000000">
+<center><img SRC="cat2.gif"></center>
+<form action="http://hoohoo.ncsa.uiuc.edu
+              /htbin-post/post query"  method="post">
+<INPUT TYPE=hidden NAME="001_regist" VALUE="f2m_eng.csv">
+<INPUT TYPE=hidden NAME="002_title" VALUE="[form2mail] FEEDBACK">
+<INPUT TYPE=hidden NAME="003_mailto" VALUE="hiromi_mat@ig.com.br">
+
+
+<b> Críticas e sugestões:
+  Preencha os dados abaixo e depois envie-os para a RKK.<br>
+Muito obrigado:</b><p>
+<table>
+<tr>
+ <td> Nome completo: </td>
+ <td> <input type="text" Name="Nome" size="35"> </td>
+</tr>
+<tr>
+ <td> Seu e-mail: </td>
+ <td> <input type="text" name="Email" size="30"> </td>
+</tr>
+<tr>
+ <td> Sua Idade: </td>
+ <td> <input type="text" name="Idade" size="3"> </td>
+</tr>
+<tr>
+ <td> Sua profissão: </td>
+ <td> <input type="text" name="profissao" size="20"> </td>
+</tr>
+<tr>
+ <td> Seu Estado Civil: </td>
+ <td> <input type="text" name="EstCivil" size="10"> </td>
+</tr>
+<tr>
+ <td> Seu Endereço: </td>
+ <td> <input type="text" name="Endereço/bairro" size="30"> </td>
+</tr>
+<tr>
+ <td> Cidade: </td>
+ <td> <input type="text" name="Cidade" size="20"> </td>
+</tr>
+<tr>
+ <td> Estado: </td>
+ <td> <input type="text" name="Estado" size="2"> </td>
+</tr>
+<tr>
+ <td> Cep: </td>
+ <td> <input type="text" name="Cep" size="8"> </td>
+</tr>
+<tr>
+ <td> Telefone: </td>
+ <td> <input type="text" name="Telefone" size="13"> </td>
+</tr>
+<tr>
+ <td> Fax : </td>
+ <td> <input type="text" name="Fax" size "13"> </td>
+</tr>
+
+</table>
+  <br>Sexo:<input type="radio"name1="sexo"value="F">Feminino
+           <input type="radio"name1="sexo"value="M" checked>Masculino <br>
+  <br>Possui religião:
+           <input type="radio"name2="sexo"value="s" checked>sim
+           <input type="radio"name2="sexo"value="n">não <br>
+  <br><b>Conhecimento em:</b> <input type="checkbox" name="bens"value="a" checked>Budismo
+           <input type="checkbox" name="bens"value="b">Protestantismo
+	   <input type="checkbox" name="bens"value="d">Islamismo
+	   <input type="checkbox" name="bens"value="b">Evangélico
+           <input type="checkbox" name="bens"value="c">Catolicismo 
+           <input type="checkbox" name="bens"value="o">outros<br>
+<br>
+<tr>
+ <td> Cite outras religiões que tem conhecimento ou tem interesse em estudar: </td>
+ <td>      <input type="text" name="outros" size="30"> </td>
+</tr><br>
+
+ <br> Qual o seu hobby preferido? <select name="Hobby">
+    <option value="Livros"> Participar da RKK
+    <option value="Livros"> Ler livros
+    <option value="música"> Ouvir música
+    <option value="Livros"> Assistir a filmes
+    <option value="Livros"> Praticar esportes
+</select><p>
+ <br> Observações gerais: <br>
+  <textarea name="observações" rows="5" cols="50">
+</textarea><p>
+<p>
+  <br>Críticas e/ou Sugestões sobre esta Página ou sobre o conteúdo: <br>
+  <textarea name="crítica" rows="5" cols="50">
+</textarea><p>
+<input type="Submit" value="Enviar os dados">
+</form>
+
+<font size=5 color="#ffff00" >
+<center><marquee align=middle behaviour="alternate"bgcolor="#000000"
+direction="left"height=1% width=90% Hspace=20 Vspace=1
+scrollamount=7 scrolldelay=1 >Muito Obrigado por ter visitado a nossa página!! Espero que tenha gostado....Aceitamos qualquer tipo de comentário!! O nosso objetivo é construir um HomePage de qualidade que possa satisfazer o interior de cada um através do budismo ...  </marquee>
+</center></b></i>
+</font>
+<center><a href="criticas.html"><img SRC="grnloop.gif" alt="Início da página"></a></center>
+<br>
+</body>
+</html>
